@@ -3,7 +3,7 @@ function mudarValorTag(tag, texto) {
     campo.innerHTML = texto;
 }
 
-mudarValorTag('h1', 'Hora do Desafio')
+mudarValorTag('h1', 'Hora do Desafio');
 
 function chamarConsole() {
     console.log(`O botão foi clicado`);
